@@ -44,6 +44,6 @@ Pod::Spec.new do |s|
   s.dependency 'MBProgressHUD', '~> 1.0'
   s.dependency 'SocketRocket'
   s.dependency 'FreeStreamer'
-  s.dependency 'SDWebImage', '~> 3.8.1'
+  s.dependency 'SDWebImage', '~> 4.0.0'
   s.dependency 'SWTableViewCell', '~> 0.3.7'
 end
